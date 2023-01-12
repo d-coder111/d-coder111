@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <h3 align="center">An individual with strong interest in software design and development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
-imag {
-  filter:invert(100%);
-}
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-coder111&label=Profile%20views&color=0e75b6&style=flat" alt="d-coder111" /> </p>
 
 - 🔭 I’m currently working on **Harry Potter's Invisibility Cloak Project.**
