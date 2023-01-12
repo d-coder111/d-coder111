@@ -26,5 +26,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-coder111&" alt="d-coder111" /></p>
 
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/5l05LCEvkKgAAAAC/thank-you-winnie-the-pooh.gif">
+<img alt="Coding" width="550" src="https://media.tenor.com/5l05LCEvkKgAAAAC/thank-you-winnie-the-pooh.gif" class="center">
 <h3 align="left">Show some ❤️ by starring some of the repositories!</h3>
