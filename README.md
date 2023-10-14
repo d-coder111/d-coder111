@@ -28,4 +28,14 @@
 <p><img align="center" src="https://www.holopin.io/api/user/board?user=dcoder111"/></p>
 
 <img alt="Coding" width="550" src="https://media.tenor.com/5l05LCEvkKgAAAAC/thank-you-winnie-the-pooh.gif" class="center">
-<h3 align="left">Show some ❤️ by starring some of the repositories!</h3>
+
+
+ <h3 align="left">Show some ❤️ by starring some of the repositories💫!</h3>
+  
+  <img src="./Assets/cat-jump.gif" height="80px">
+     
+
+
+
+
+
