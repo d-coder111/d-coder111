@@ -30,9 +30,11 @@
 <img alt="Coding" width="550" src="https://media.tenor.com/5l05LCEvkKgAAAAC/thank-you-winnie-the-pooh.gif" class="center">
 
 
- <h3 align="left">Show some ❤️ by starring some of the repositories💫!</h3>
-  
+
+ <p style="display:inline-block ;">
+  <strong>Show some ❤️ by starring some of the repositories💫!</strong>
   <img src="./Assets/cat-jump.gif" height="80px">
+</p>
      
 
 
