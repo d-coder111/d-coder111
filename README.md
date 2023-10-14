@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://www.holopin.io/api/user/board?user=dcoder111"/></p>
 
-<img alt="Coding" width="550" src="https://media.tenor.com/5l05LCEvkKgAAAAC/thank-you-winnie-the-pooh.gif" class="center">
+<img alt="thankyou" width="550" src="./Assets/thank-you-winnie-the-pooh.gif">
 
 
 
