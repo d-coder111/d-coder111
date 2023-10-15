@@ -25,19 +25,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d-coder111&theme=dark" alt="d-coder111" /></p>
 
-<p><img align="center" src="https://www.holopin.io/api/user/board?user=dcoder111"/></p>
+[![An image of @dcoder111's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dcoder111)](https://holopin.io/@dcoder111)
 
 <img alt="thankyou" width="550" src="./Assets/thank-you-winnie-the-pooh.gif">
 
 
 
- <p style="display:inline-block ;">
-  <strong>Show some ❤️ by starring some of the repositories💫!</strong>
-  <img src="./Assets/cat-jump.gif" height="80px">
-</p>
+ 
+### Show some ❤️ by starring some of the repositories💫!</strong>
+  
+
      
-
-
-
-
+<img src="./Assets/cat-jump.gif" height="80px">
 
